@@ -4,7 +4,7 @@ const Calculator = () => (
     <div className="key">AC</div>
     <div className="key">+/-</div>
     <div className="key">%</div>
-    <div className="operator">/</div>
+    <div className="operator">÷</div>
     <div className="key">7</div>
     <div className="key">8</div>
     <div className="key">9</div>
