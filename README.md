@@ -88,8 +88,6 @@ In this project I will create a full website for the Math magicians app, consist
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 - **Use calculator**
