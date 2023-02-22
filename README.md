@@ -17,15 +17,11 @@ In this project I will refactor the Calculator component I developed in the past
 
 Project 5: Full website.
 In this project I will create a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
-
-
-
 </div>
  <img src="/images/Math-Magician2.gif" alt="Math Magician Demo" width="650"  height="450" />
 <div>
 
 <div>
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -59,13 +55,11 @@ In this project I will create a full website for the Math magicians app, consist
 **Math magician app**
 
 ## 🛠 Built With <a name="built-with"></a>
-
 ### Tech Stack <a name="tech-stack"></a>
   - HTML
 - CSS
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React]((https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/lessons/what_is_react_v2.md))
-
 <details>
   <summary>Languages</summary>
   <ul>
@@ -96,34 +90,19 @@ In this project I will create a full website for the Math magicians app, consist
 - **Access Calculator page**
 - **Access Quote page**
 
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 #### 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Calculate sin,cos and tan**
 - [ ] **Calculate square root and to the power**
-
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - <a href="" target="_blank">Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -137,7 +116,6 @@ Clone this repository to your desired folder:
   git clone git@github.com:RitaDee/math-magic.git
   cd math-magic
 ```
-
 ### Install
 
 Install this project with:
@@ -147,20 +125,16 @@ Install this project with:
 ```sh
   npm install
 ```
-
 ```yarn
 ```
 ```sh
    npm install --save-dev @testing-library/react
 ```
-
-
 ```yarn
 ```
 ```sh
    npm install --save-dev react-test-renderer
 ```
-
 ### Usage
 
 To run the project in a development server, execute the following command:
@@ -168,7 +142,6 @@ To run the project in a development server, execute the following command:
 ```sh
   npm start
 ```
-
 ### Testing
 
 To run the tests in a development server, execute the following command:
@@ -178,7 +151,6 @@ To run the tests in a development server, execute the following command:
 ```sh
   npm test
 ```
-
 To to build for the production, execute the following command:
 
 ```yarn
@@ -186,7 +158,6 @@ To to build for the production, execute the following command:
 ```sh
   npm run build
 ```
-
 ### Deployment
 
 You can deploy this project using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
