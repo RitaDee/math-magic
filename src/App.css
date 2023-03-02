@@ -11,12 +11,6 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-.calculatorT h2 {
-  text-align: left;
-    margin-top: 10px;
-    padding-left: 24px;
-}
-
 .container .result {
   color: #fff;
   text-align: end;
@@ -29,6 +23,17 @@
   border: 0px solid rgb(215, 207, 207);
   text-align: center;
   padding: 2rem;
+}
+
+.calculatorF {
+  display: flex;
+  justify-content: center;
+}
+
+.calculatorT {
+  text-align: center;
+  margin-top: 10px;
+  padding: 24px;
 }
 
 .key {
