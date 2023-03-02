@@ -1,14 +1,12 @@
-import React, { useState, useEffect } from 'react';
-import getMathQuote from '../components/MathQuote';
+import React from 'react';
 
-const Quote = () => {
-  const [quote, setQuote] = useState('');
-
-  useEffect(() => {
-    getMathQuote().then((data) => setQuote(data));
-  }, []);
-
-  return <p>{quote}</p>;
-};
+function Quote() {
+  return (
+    <div className="quote-wrapper">
+      Mathematics is not about numbers, equations, computations, or algorithms:
+      It is about understanding. -William Paul Thurston
+    </div>
+  );
+}
 
 export default Quote;

@@ -1,0 +1,30 @@
+.container {
+    position: absolute;
+    top: 30%;
+    bottom: 20%;
+    right: 2%;
+    left: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    /* max-width: 800px;
+    margin: 0 auto;
+    padding: 20px; */
+    background-color: #4d7093;
+}
+
+.title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.description {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.message {
+    font-size: 1.2rem;
+    color: #666;
+}

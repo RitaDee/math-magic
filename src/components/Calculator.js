@@ -21,6 +21,7 @@ const Calculator = () => {
 
   return (
     <div className="container">
+      <h2 className="calculatorT">Let&apos;s do some maths</h2>
       <div className="result">
         {total}
         {' '}

@@ -1,8 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import styles from '../styles/Navbar.module.css';
 
-const Navbar = () => {
-  <nav>
+const Navbar = () => (
+  <nav className={styles.navHead}>
     <h1>Math Magic</h1>
     <ul>
       <li>
@@ -19,7 +20,7 @@ const Navbar = () => {
         <Link to="/quote">Quote</Link>
       </li>
     </ul>
-  </nav>;
-};
+  </nav>
+);
 
 export default Navbar;

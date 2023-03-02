@@ -1,10 +1,11 @@
 import React from 'react';
+import styles from '../styles/Home.module.css';
 
 const Home = () => (
-  <div>
-    <h1>Welcome to our calculator app - your go-to tool for quick and accurate calculations!</h1>
+  <div className={styles.container}>
+    <h1 className={styles.title}>Welcome to our calculator app!</h1>
 
-    <p>
+    <p className={styles.description}>
       Math Magic is a handy tool for quick and easy solutions to basic math problems.
       <br />
 
@@ -13,7 +14,7 @@ const Home = () => (
       It performs basic math operations like addition, multiplication, division and subtraction.
     </p>
 
-    <p>
+    <p className={styles.message}>
       We are constantly updating our App to ensure they are accurate and up-to-date.
 
       Start exploring our website today.

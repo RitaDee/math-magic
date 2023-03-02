@@ -1,3 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 .container {
   width: 50%;
   margin: 100px auto;
@@ -5,22 +11,30 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
+.calculatorT h2 {
+  text-align: left;
+    margin-top: 10px;
+    padding-left: 24px;
+}
+
 .container .result {
   color: #fff;
   text-align: end;
   padding: 2rem;
-  background-color: rgba(150, 147, 147, 0.8);
+  background-color: rgba(32, 49, 99, 0.8);
   grid-column: 1 / span 4;
 }
 
 .container > * {
-  border: 0.5px solid rgb(215, 207, 207);
+  border: 0px solid rgb(215, 207, 207);
   text-align: center;
   padding: 2rem;
 }
 
 .key {
   background-color: rgba(128, 128, 128, 0.1);
+  border-radius: 1rem;
+  margin: 0.2rem;
 }
 
 .zero {
@@ -28,5 +42,20 @@
 }
 
 .operator {
-  background-color: #ff8000;
+  background-color: #5043c4;
+}
+
+nav {
+  display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 24%;
 }
