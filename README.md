@@ -170,13 +170,13 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 <a name="authors"></a>
 
-<h4>Lucas Erkana</h4>
+<h4>Rita Daniel</h4>
 
-<img src="/images/github.svg" alt="logo" width="18"  height="18" />[githubhandle](https://github.com/RitaDee)
+[githubhandle](https://github.com/RitaDee)
 <br>
-<img src="/images/twitter.svg" alt="logo" width="18"  height="18" /> [twitterhandle](https://twitter.com/durdana_dee)
+[twitterhandle](https://twitter.com/durdana_dee)
 <br>
-<img src="/images/linkedin.svg" alt="logo" width="18"  height="18" />[linkedIn](https://www.linkedin.com/in/rita-daniel/)
+[linkedIn](https://www.linkedin.com/in/rita-daniel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
