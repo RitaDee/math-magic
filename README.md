@@ -98,7 +98,7 @@ In this project I will create a full website for the Math magicians app, consist
 - [ ] **Calculate square root and to the power**
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="" target="_blank">[Live Demo](https://math-magic-app-ym47.onrender.com)</a>
+- <a href="" target="_blank">[Live Demo](https://mathdee.netlify.app/)</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
