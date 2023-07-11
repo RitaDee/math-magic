@@ -7,16 +7,16 @@ Project 1: Setup.
 I will set up the environment and tools needed to develop a React application in this project. 
 
 Project 2: Components.
-In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality of a calculator
+In this project, I will add more features to the Math Magicians app. I will develop a React component that will hold the core functionality of a calculator.
 
 Project 3: Events.
-In this project, I will add the logic needed to make the Calculator component I developed in the previous project actually work.
+In this project, I will add the logic needed to make the Calculator component I developed in the previous project work.
 
 Project 4: Refactor with hooks.
 In this project, I will refactor the Calculator component I developed in past projects. Instead of using class-based components, I will use hooks.
 
 Project 5: Full website.
-In this project, I will create a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
+In this project, I will create a full website for the Math Magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
 </div>
  <img src="/images/Math-Magician2.gif" alt="Math Magician Demo" width="650"  height="450" />
 <div>
@@ -52,7 +52,7 @@ In this project, I will create a full website for the Math magicians app, consis
 
 >This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
 
-**Math magician app**
+**Math Magician app**
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
@@ -94,7 +94,7 @@ In this project, I will create a full website for the Math magicians app, consis
 
 #### 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Calculate sin,cos and tan**
+- [ ] **Calculate sin, cos and tan**
 - [ ] **Calculate square root and to the power**
 ## 🚀 Live Demo <a name="live-demo"></a>
 
