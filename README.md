@@ -4,7 +4,7 @@
   <h1>Math magicians</h1>
 
 Project 1: Setup.
-In this project I will set up the environment and tools needed to develop a React application. 
+In this project, I will set up the environment and tools needed to develop a React application. 
 
 Project 2: Components.
 In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality of a calculator
@@ -13,10 +13,10 @@ Project 3: Events.
 In this project, I will add the logic needed to make the Calculator component I developed in the previous project actually work.
 
 Project 4: Refactor with hooks.
-In this project I will refactor the Calculator component I developed in the past projects. Instead of using class based components, I will use hooks.
+In this project, I will refactor the Calculator component I developed in past projects. Instead of using class based components, I will use hooks.
 
 Project 5: Full website.
-In this project I will create a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
+In this project, I will create a full website for the Math magicians app, consisting of several pages and using the components I have already created. By adding a Home page, Calculator page and Quotes page.
 </div>
  <img src="/images/Math-Magician2.gif" alt="Math Magician Demo" width="650"  height="450" />
 <div>
