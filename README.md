@@ -4,7 +4,7 @@
   <h1>Math magicians</h1>
 
 Project 1: Setup.
-In this project, I will set up the environment and tools needed to develop a React application. 
+I will set up the environment and tools needed to develop a React application in this project. 
 
 Project 2: Components.
 In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality of a calculator
